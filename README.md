@@ -1,9 +1,9 @@
-**# Plataforma de Criação e Gerenciamento de Eventos**
+# **Plataforma de Criação e Gerenciamento de Eventos**
 
 O Projeto de Criação e Gerenciamento de Eventos visa desenvolver uma plataforma web moderna e intuitiva para facilitar a organização e gestão de eventos. Utilizando React no front-end, Node.js no back-end e MongoDB como banco de dados, a plataforma oferecerá funcionalidades completas para criação, visualização e gerenciamento de eventos. Focada em segurança e desempenho, nossa solução proporcionará uma experiência fluida e escalável para organizadores e participantes.
 
-**Texto em Negrito**##Objetivos
-**Texto em Italico**###Específicos:
+## **Objetivos**
+### **Específicos:**
 
 •	Desenvolver um sistema de autenticação e autorização seguro para garantir que apenas usuários autorizados possam acessar e gerenciar os eventos.
 
@@ -13,7 +13,7 @@ O Projeto de Criação e Gerenciamento de Eventos visa desenvolver uma plataform
 
 •	Garantir a segurança e integridade dos dados dos eventos e dos usuários através da implementação de práticas robustas de segurança.
 
-**Texto em Italico**###Mensuráveis:
+### **Mensuráveis:**
 
 •	Implementação da aplicação web com cobertura de testes unitários de pelo menos 85%.
 
@@ -23,7 +23,7 @@ O Projeto de Criação e Gerenciamento de Eventos visa desenvolver uma plataform
 
 •	Suporte a até 500 eventos simultâneos e 1000 usuários simultâneos sem degradação significativa de desempenho.
 
-**Texto em Italico**###Atingíveis:
+### **Atingíveis:**
 
 •	Utilizar frameworks e bibliotecas amplamente adotados (React, Node.js, MongoDB) para garantir a qualidade e entrega pontual do projeto.
 
@@ -31,7 +31,7 @@ O Projeto de Criação e Gerenciamento de Eventos visa desenvolver uma plataform
 
 •	Formar uma equipe de desenvolvimento com experiência nas tecnologias escolhidas e conhecimento no gerenciamento de eventos.
 
-**Texto em Italico**###Relevantes:
+### **Relevantes:**
 
 •	Atender à necessidade de uma plataforma eficiente para gerenciamento de eventos, facilitando a organização e acompanhamento dos mesmos.
 
@@ -39,7 +39,7 @@ O Projeto de Criação e Gerenciamento de Eventos visa desenvolver uma plataform
 
 •	Facilitar a gestão e a comunicação com os participantes, contribuindo para eventos bem-sucedidos e bem-organizados.
 
-**Texto em Italico**###Temporais:
+### **Temporais:**
 
 •	Concluir o desenvolvimento da aplicação em 4 meses, com entregas iterativas a cada 3 semanas.
 
@@ -51,21 +51,21 @@ O Projeto de Criação e Gerenciamento de Eventos visa desenvolver uma plataform
 
 •	Realizar testes beta e ajustes finais nos dois últimos meses do cronograma.
 
-**Texto em Negrito**##Cronograma 
-**Texto em Italico**###Planejamento
+## **Cronograma**
+### **Planejamento**
 
 <!-- Caminho para a imagem do cronograma -->
 ![Planejamento Mensal](Img/PlanejamentoSemanal.png)
 
 
-**Texto em Italico**###Semana 1-3:
+### **Semana 1-3:**
 •	Configuração do ambiente de desenvolvimento.
 
 •	Implementação do sistema de autenticação e autorização com JWT.
 
 •	Criação das páginas de registro, login e perfil para organizadores.
 
-**Texto em Italico**###Semana 4-6:
+### **Semana 4-6:**
 
 •	Desenvolvimento das funcionalidades de criação, visualização, edição e exclusão de eventos.
 
@@ -73,7 +73,7 @@ O Projeto de Criação e Gerenciamento de Eventos visa desenvolver uma plataform
 
 •	Início do desenvolvimento do sistema de notificações e alertas para eventos.
 
-**Texto em Italico**###Semana 7-9:
+### **Semana 7-9:**
 
 •	Desenvolvimento e implementação dos dashboards personalizados para organizadores.
 
@@ -81,7 +81,7 @@ O Projeto de Criação e Gerenciamento de Eventos visa desenvolver uma plataform
 
 •	Ajustes e melhorias com base no feedback dos testes.
 
-**Texto em Italico**###Semana 10-15:
+### **Semana 10-15:**
 
 •	Testes beta com um grupo selecionado de usuários e organizadores.
 
@@ -89,8 +89,8 @@ O Projeto de Criação e Gerenciamento de Eventos visa desenvolver uma plataform
 
 •	Preparação para o lançamento e desenvolvimento de uma estratégia de treinamento para os usuários finais.
 
-**Texto em Negrito**##Recursos
-**Texto em Italico**###Equipe:
+**Recursos**
+### **Equipe:**
 
 •	1 Gerente de Projetos
 
@@ -103,7 +103,7 @@ O Projeto de Criação e Gerenciamento de Eventos visa desenvolver uma plataform
 •	1 Analista de Suporte Técnico para treinamento dos usuários
 
 
-**Texto em Italico**###Tecnologias:
+### **Tecnologias:**
 
 •	React (Front-end)
 
@@ -117,7 +117,7 @@ O Projeto de Criação e Gerenciamento de Eventos visa desenvolver uma plataform
 
 •	Git/GitHub (Controle de Versão)
 
-**Texto em Italico**###Ferramentas de Gestão:
+### **Ferramentas de Gestão:**
 
 •	Jira/Trello para gerenciamento de tarefas
 
@@ -125,7 +125,7 @@ O Projeto de Criação e Gerenciamento de Eventos visa desenvolver uma plataform
 
 •	Figma para design de interfaces
 
-**Texto em Negrito**##Análise de Riscos
+## **Análise de Riscos**
 
 •	Atrasos no cronograma devido a requisitos não previstos.
 
@@ -142,21 +142,21 @@ o	Mitigação: Implementar testes de carga e otimizar a aplicação para suporta
 
 o	Mitigação: Desenvolver e executar uma estratégia de treinamento e suporte para garantir que os usuários estejam confortáveis e confiantes ao usar a nova ferramenta.
 
-**Texto em Negrito**##Diagramas
-**Texto em Italico**###classes
+## **Diagramas**
+### **classes**
 <!-- imagem
 
 
 AAAAA FAZERRRRR -->
 
-**Texto em Italico**###uso
+### **uso**
 <!-- imagem
 
 
 
 AAAAAA FAZEEERRRR -->
 
-**Texto em Italico**###fluxo
+### **fluxo**
 <!-- imagem
 
 
