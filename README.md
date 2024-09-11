@@ -1,4 +1,4 @@
-**#Plataforma de Criação e Gerenciamento de Eventos#**
+**# Plataforma de Criação e Gerenciamento de Eventos**
 
 O Projeto de Criação e Gerenciamento de Eventos visa desenvolver uma plataforma web moderna e intuitiva para facilitar a organização e gestão de eventos. Utilizando React no front-end, Node.js no back-end e MongoDB como banco de dados, a plataforma oferecerá funcionalidades completas para criação, visualização e gerenciamento de eventos. Focada em segurança e desempenho, nossa solução proporcionará uma experiência fluida e escalável para organizadores e participantes.
 
