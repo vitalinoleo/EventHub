@@ -143,24 +143,14 @@ o	Mitigação: Implementar testes de carga e otimizar a aplicação para suporta
 o	Mitigação: Desenvolver e executar uma estratégia de treinamento e suporte para garantir que os usuários estejam confortáveis e confiantes ao usar a nova ferramenta.
 
 ## **Diagramas**
-### **classes**
-<!-- imagem
+### **classe**
 
-
-AAAAA FAZERRRRR -->
+![Diagrama de Classe](img/DiagramaDeClasse.png)
 
 ### **uso**
-<!-- imagem
 
-
-
-AAAAAA FAZEEERRRR -->
+![Diagrama De Uso](Img/DiagramaDeUso.png)
 
 ### **fluxo**
-<!-- imagem
 
-
-
-
-
-AAAAAAA FAZEEERRR -->
+![Dagrama De Fluxo](Img/DiagramaDeFluxo.png)
