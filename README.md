@@ -145,7 +145,7 @@ o	Mitigação: Desenvolver e executar uma estratégia de treinamento e suporte p
 ## **Diagramas**
 ### **classe**
 
-<img src="Img/DiagramaDeClasse.png" alt="Diagrama de Classe" width="400"/>
+<img src="Img/DiagramaDeClasse.png" alt="Diagrama de Classe" width="500"/>
 
 ### **Uso**
 
