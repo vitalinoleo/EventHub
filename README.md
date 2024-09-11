@@ -145,12 +145,12 @@ o	Mitigação: Desenvolver e executar uma estratégia de treinamento e suporte p
 ## **Diagramas**
 ### **classe**
 
-![Diagrama de Classe](Img/DiagramaDeClasse.png)
-<img src= "Img/DiagramaDeClasse.png" alt="diagrama de classe" widht="100"/>
-### **uso**
+<img src="Img/DiagramaDeClasse.png" alt="Diagrama de Classe" width="400"/>
 
-![Diagrama De Uso](Img/DiagramaDeUso.png)
+### **Uso**
 
-### **fluxo**
+<img src="Img/DiagramaDeUso.png" alt="Diagrama De Uso" width="400"/>
 
-![Dagrama De Fluxo](Img/DiagramaDeFluxo.png)
+### **Fluxo**
+
+<img src="Img/DiagramaDeFluxo.png" alt="Diagrama De Fluxo" width="400"/>
