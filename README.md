@@ -154,3 +154,15 @@ o	Mitigação: Desenvolver e executar uma estratégia de treinamento e suporte p
 ### **Fluxo**
 
 <img src="Img/DiagramaDeFluxo.png" alt="Diagrama De Fluxo" width="400"/>
+
+## **Prototipagem**
+### **baixa**
+<img src="Img/PrototipagemBaixa.png" alt="PrototipagemBaixa" width="400"/>
+
+### **Media**
+<img src="Img/PrototipagemMedia.png" alt="PrototipagemMedia" width="400"/>
+
+### **alta**
+<img src="Img/PrototipagemAlta.png" alt="PrototipagemAlta" width="400"/>
+
+
